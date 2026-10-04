@@ -77,10 +77,10 @@ export const info = {
 // Just change the links so that they lead to your social profiles.
 
     ],
-    bio: "Hello! I'm Eve. I'm a master student graduated from UC Irvine recently. " +
-    "I studied computer engineering, and I have experience with software development for two years. " +
+    bio: "Hello! I'm Eve. I'm a software engineer working at YouTube. " +
+    "I studied computer engineering, and I have experience with software development and machine learning model/infra for two years. " +
     "I enjoy spending time with my cats. " +
-    "You should hire me!",
+    "I am open to new opportunities!",
     skills:
         {
             proficientWith: ['Machine Learning', 'SQL', 'python', 'javascript', 'react', 'node.js', 'CSS'],
