@@ -29,7 +29,7 @@ export const info = {
     firstName: "Eve",
     lastName: "Zhang",
     initials: "EZ", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    position: "a Software Engineer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
@@ -44,7 +44,7 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Looking for frontend/fullstack opportunities"
+            text: "Looking for ML/fullstack opportunities"
         },
         {
             emoji: "📧",
@@ -53,7 +53,7 @@ export const info = {
         {
             emoji: "📝",
             text: "resume",
-            link: "https://github.com/sharsdylow/sharsdylow.github.io/blob/main/Resume_Eve_Zhang_SDE_August.pdf?raw=true"
+            link: "https://github.com/sharsdylow/sharsdylow.github.io/blob/main/EveZhang_Resume.pdf?raw=true"
         }
     ],
     socials: [
@@ -83,8 +83,8 @@ export const info = {
     "You should hire me!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'node.js', 'python', 'SQL', 'CSS'],
-            exposedTo: ['nodejs', 'typescript', 'kubernetes']
+            proficientWith: ['Machine Learning', 'SQL', 'python', 'javascript', 'react', 'node.js', 'CSS'],
+            exposedTo: ['nodejs', 'typescript', 'Java', 'C++', 'C']
         }
     ,
     hobbies: [
@@ -120,20 +120,20 @@ export const info = {
         {
             title: "Project 2",
             live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            source: "",
             image: mock2
         },
-        {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock3
-        },
-        {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-            image: mock4
-        },
+        // {
+        //     title: "Project 3",
+        //     live: "https://paytonpierce.dev",
+        //     source: "",
+        //     image: mock3
+        // },
+        // {
+        //     title: "Project 4",
+        //     live: "https://paytonpierce.dev",
+        //     source: "",
+        //     image: mock4
+        // },
     ]
 }
